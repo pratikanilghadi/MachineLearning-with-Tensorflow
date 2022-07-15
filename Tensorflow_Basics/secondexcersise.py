@@ -1,3 +1,4 @@
+'''This code is for the analysis of the number handwriting'''
 # YOUR CODE SHOULD START HERE
 import numpy as np
 from tensorflow import keras

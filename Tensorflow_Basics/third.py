@@ -1,4 +1,4 @@
-'''The program is for the Checking of a number series'''
+'''Something'''
 import tensorflow as tf
 import numpy as np
 from tensorflow import keras
