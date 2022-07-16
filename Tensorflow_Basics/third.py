@@ -1,4 +1,4 @@
-'''Something'''
+'''The addition of Convolution and Pooling to Fashion MINST'''
 
 import tensorflow as tf
 print(tf.__version__)
